@@ -1,0 +1,182 @@
+[
+  {
+    "roll": 1,
+    "name": "Delfia",
+    "city": "Kolkata",
+    "college": "St. Thomas' College of Engineering & Technology",
+    "qualification": "BTech",
+    "gender": "female",
+    "isCompleted": true
+  },
+  {
+    "roll": 2,
+    "name": "Debjoy",
+    "city": "Kolkata",
+    "college": "St. Thomas' College of Engineering & Technology",
+    "qualification": "BTech",
+    "gender": "male",
+    "isCompleted": false
+  },
+  {
+    "roll": 3,
+    "name": "Dipan",
+    "city": "Kolkata",
+    "college": "St. Thomas' College of Engineering & Technology",
+    "qualification": "BTech",
+    "gender": "male",
+    "isCompleted": false
+  },
+  {
+    "roll": 4,
+    "name": "Bidisha",
+    "city": "Kolkata",
+    "college": "St. Thomas' College of Engineering & Technology",
+    "qualification": "BTech",
+    "gender": "female",
+    "isCompleted": true
+  },
+  {
+    "roll": 5,
+    "name": "Ausree",
+    "city": "Kolkata",
+    "college": "St. Thomas' College of Engineering & Technology",
+    "qualification": "BTech",
+    "gender": "female",
+    "isCompleted": true
+  },
+  {
+    "roll": 6,
+    "name": "Tirtha",
+    "city": "Kolkata",
+    "college": "St. Thomas' College of Engineering & Technology",
+    "qualification": "BTech",
+    "gender": "female",
+    "isCompleted": true
+  },
+  {
+    "roll": 7,
+    "name": "Samrat",
+    "city": "Kolkata",
+    "college": "St. Thomas' College of Engineering & Technology",
+    "qualification": "BTech",
+    "gender": "male",
+    "isCompleted": false
+  },
+  {
+    "roll": 8,
+    "name": "Sumon",
+    "city": "Kolkata",
+    "college": "St. Thomas' College of Engineering & Technology",
+    "qualification": "BTech",
+    "gender": "male",
+    "isCompleted": true
+  },
+  {
+    "roll": 9,
+    "name": "Rishab",
+    "city": "Kolkata",
+    "college": "St. Thomas' College of Engineering & Technology",
+    "qualification": "BTech",
+    "gender": "male",
+    "isCompleted": false
+  },
+  {
+    "roll": 10,
+    "name": "Sayantan",
+    "city": "Kolkata",
+    "college": "St. Thomas' College of Engineering & Technology",
+    "qualification": "BTech",
+    "gender": "male",
+    "isCompleted": true
+  },
+  {
+    "roll": 11,
+    "name": "Anirban",
+    "city": "Kolkata",
+    "college": "St. Thomas' College of Engineering & Technology",
+    "qualification": "BTech",
+    "gender": "male",
+    "isCompleted": true
+  },
+  {
+    "roll": 12,
+    "name": "Anik",
+    "city": "Kolkata",
+    "college": "St. Thomas' College of Engineering & Technology",
+    "qualification": "BTech",
+    "gender": "male",
+    "isCompleted": false
+  },
+  {
+    "roll": 13,
+    "name": "Tathagata",
+    "city": "Kolkata",
+    "college": "St. Thomas' College of Engineering & Technology",
+    "qualification": "BTech",
+    "gender": "male",
+    "isCompleted": true
+  },
+  {
+    "roll": 14,
+    "name": "Swarnabha",
+    "city": "Kolkata",
+    "college": "St. Thomas' College of Engineering & Technology",
+    "qualification": "BTech",
+    "gender": "male",
+    "isCompleted": true
+  },
+  {
+    "roll": 15,
+    "name": "Satabdi",
+    "city": "Kolkata",
+    "college": "St. Thomas' College of Engineering & Technology",
+    "qualification": "BTech",
+    "gender": "female",
+    "isCompleted": true
+  },
+  {
+    "roll": 16,
+    "name": "Subhas",
+    "city": "Kolkata",
+    "college": "St. Thomas' College of Engineering & Technology",
+    "qualification": "BTech",
+    "gender": "male",
+    "isCompleted": true
+  },
+  {
+    "roll": 17,
+    "name": "Amitava",
+    "city": "Kolkata",
+    "college": "St. Thomas' College of Engineering & Technology",
+    "qualification": "BTech",
+    "gender": "male",
+    "isCompleted": false
+  },
+  {
+    "roll": 18,
+    "name": "Rajrup",
+    "city": "Kolkata",
+    "college": "St. Thomas' College of Engineering & Technology",
+    "qualification": "BTech",
+    "gender": "male",
+    "isCompleted": true
+  },
+  {
+    "roll": 19,
+    "name": "Sakshi",
+    "city": "Kolkata",
+    "college": "St. Thomas' College of Engineering & Technology",
+    "qualification": "BTech",
+    "gender": "female",
+    "isCompleted": true
+  },
+  {
+    "roll": 20,
+    "name": "Shabbir",
+    "city": "Kolkata",
+    "college": "St. Thomas' College of Engineering & Technology",
+    "qualification": "BTech",
+    "gender": "male",
+    "isCompleted": true
+  }
+]
